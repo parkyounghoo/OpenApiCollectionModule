@@ -1,0 +1,6 @@
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\Open_Api_Collection_Module\obj\Debug\Open_Api_Collection_Module.csprojAssemblyReference.cache
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\Open_Api_Collection_Module\obj\Debug\Open_Api_Collection_Module.Form1.resources
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\Open_Api_Collection_Module\obj\Debug\Open_Api_Collection_Module.Properties.Resources.resources
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\Open_Api_Collection_Module\obj\Debug\Open_Api_Collection_Module.csproj.GenerateResource.cache
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\Open_Api_Collection_Module\obj\Debug\Open_Api_Collection_Module.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\Open_Api_Collection_Module\obj\Debug\Open_Api_Collection_Module.pdb
